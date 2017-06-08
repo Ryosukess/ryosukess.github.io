@@ -10,10 +10,6 @@
 <!--```markdown-->
 <!--Syntax highlighted code block->
 
-#**Ryosukess**
-=========================
-## my dream about near future [Tokyo 2020](https://tokyo2020.jp/en/)
-![Tokyo](http://p2.img.cctvpic.com/program/newsupdate/20120807/images/1344322626753_1344322626753_r.jpg)
 
 <!--## Header 2-->
 <!--### Header 3-->
@@ -34,10 +30,10 @@
 
 <!--Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ryosukess/ryosukess.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.-->
 
-#**Ryosukess**
+**Ryosukess**
  =========================
- ## my dream about near future [Tokyo 2020](https://tokyo2020.jp/en/)
- ![Tokyo](http://p2.img.cctvpic.com/program/newsupdate/20120807/images/134432    2626753_1344322626753_r.jpg)
+ ##my dream about near future [Tokyo 2020](https://tokyo2020.jp/en/)
+ ![Tokyo](http://p2.img.cctvpic.com/program/newsupdate/20120807/images/1344322626753_1344322626753_r.jpg)
 
 
 
