@@ -40,6 +40,7 @@ shell操作:
 		 "It is a test" 
     	 显示变量
 		$name="OK" $echo "$name It is tet" --> OK It is a test (显示变量)
-   
+-----------------------------------------------------------------------
+terminal 清屏  $ctrl + l  $clear   
 
 
